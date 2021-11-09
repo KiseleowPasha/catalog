@@ -1,0 +1,25 @@
+.product-in-basket{
+    display: flex;
+    justify-content: space-between;
+    width: 80%;
+    align-items: center;
+    border-bottom: 1px solid blue;
+    padding-bottom: 2%;
+    margin: 2% auto;
+}
+.product-in-basket img{
+    width: 20%;
+}
+.product-in-basket-delete{
+    cursor: pointer;
+}
+.product-in-basket-title{
+    width: 30%;
+}
+.product-in-basket input{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 1.5rem;
+    width: 8%;
+    border: none;
+    outline: none;
+}

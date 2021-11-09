@@ -1,0 +1,362 @@
+[
+    {
+        "id": 1,
+        "title": "Samsung QE50Q67AAU",
+        "picture": "https://img.mvideo.ru/Big/10026892bb.jpg",
+        "description": "Lorem Ipsum является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах.",
+        "price": 56000,
+        "sale": false,
+        "category": "tv"
+    },
+    {
+        "id": 2,
+        "title": "Apple iPhone 13 128GB Midnight",
+        "picture": "https://img.mvideo.ru/Big/30052919bb.jpg",
+        "description": "Lorem Ipsum является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах.",
+        "price": 90000,
+        "sale": false,
+        "category": "smartphones"
+    },
+    {
+        "id": 3,
+        "title": "Hotpoint-Ariston HTS 5200 W",
+        "picture": "https://img.mvideo.ru/Big/20075332bb.jpg",
+        "description": "Lorem Ipsum является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах.",
+        "price": 67800,
+        "sale": true,
+        "category": "refrigerators"
+    },
+    {
+        "id": 4,
+        "title": "MSI GF75 Thin 10UC-058XRU",
+        "picture": "https://img.mvideo.ru/Big/30056967bb.jpg",
+        "description": "Lorem Ipsum является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах.",
+        "price": 78430,
+        "sale": true,
+        "category": "notebooks"
+    },
+    {
+        "id": 5,
+        "title": "Lenovo IdeaPad Gaming 3 15IMH05 (81Y40173RU)",
+        "picture": "https://img.mvideo.ru/Big/30057548bb.jpg",
+        "description": "Lorem Ipsum является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах.",
+        "price": 42100,
+        "sale": false,
+        "category": "notebooks"
+    },
+    {
+        "id": 6,
+        "title": "Apple iPhone 13 mini 256GB Blue",
+        "picture": "https://img.mvideo.ru/Big/30052924bb.jpg",
+        "description": "Lorem Ipsum является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах.",
+        "price": 65000,
+        "sale": false,
+        "category": "smartphones"
+    },
+    {
+        "id": 7,
+        "title": "Indesit ITS 5200 W",
+        "picture": "https://img.mvideo.ru/Big/20062328bb.jpg",
+        "description": "Lorem Ipsum является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах.",
+        "price": 49000,
+        "sale": true,
+        "category": "refrigerators"
+    },
+    {
+        "id": 8,
+        "title": "MSI GF65 Thin 10UE-287RU",
+        "picture": "https://img.mvideo.ru/Big/30053973bb.jpg",
+        "description": "Lorem Ipsum является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах.",
+        "price": 53200,
+        "sale": false,
+        "category": "notebooks"
+    },
+    {
+        "id": 9,
+        "title": "Xiaomi Redmi 10 4+128GB Carbon Gray",
+        "picture": "https://img.mvideo.ru/Big/30054732bb.jpg",
+        "description": "Lorem Ipsum является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах.",
+        "price": 64500,
+        "sale": true,
+        "category": "smartphones"
+    },
+    {
+        "id": 10,
+        "title": "Samsung UE50AU7170U",
+        "picture": "https://img.mvideo.ru/Big/10026882bb.jpg",
+        "description": "Lorem Ipsum является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах.",
+        "price": 89000,
+        "sale": false,
+        "category": "tv"
+    },
+    {
+        "id": 11,
+        "title": "LG DoorCooling+ GA-B509CBTL",
+        "picture": "https://img.mvideo.ru/Big/20072868bb.jpg",
+        "description": "Lorem Ipsum является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах.",
+        "price": 61000,
+        "sale": false,
+        "category": "refrigerators"
+    },
+    {
+        "id": 12,
+        "title": "Acer Nitro 5 AN515-55-50LX NH.QB1ER.006",
+        "picture": "https://img.mvideo.ru/Big/30057041bb.jpg",
+        "description": "Lorem Ipsum является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах.",
+        "price": 56000,
+        "sale": true,
+        "category": "notebooks"
+    },
+    {
+        "id": 13,
+        "title": "Samsung UE43AU8000U",
+        "picture": "https://img.mvideo.ru/Big/10024453bb.jpg",
+        "description": "Lorem Ipsum является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах.",
+        "price": 65800,
+        "sale": true,
+        "category": "tv"
+    },
+    {
+        "id": 14,
+        "title": "Bosch Serie | 4 VitaFresh KGN39XW27R",
+        "picture": "https://img.mvideo.ru/Big/20060208bb.jpg",
+        "description": "Lorem Ipsum является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах.",
+        "price": 83000,
+        "sale": true,
+        "category": "refrigerators"
+    },
+    {
+        "id": 15,
+        "title": "Huawei nova 8 Blush Gold (ANG-LX1)",
+        "picture": "https://img.mvideo.ru/Big/30052915bb.jpg",
+        "description": "Lorem Ipsum является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах.",
+        "price": 76000,
+        "sale": true,
+        "category": "smartphones"
+    },
+    {
+        "id": 16,
+        "title": "LG 43UN68006LA",
+        "picture": "https://img.mvideo.ru/Big/10026080bb.jpg",
+        "description": "Lorem Ipsum является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах.",
+        "price": 94000,
+        "sale": true,
+        "category": "tv"
+    },
+    {
+        "id": 17,
+        "title": "Beko CNKDN6335KC0W",
+        "picture": "https://img.mvideo.ru/Big/20069642bb.jpg",
+        "description": "Lorem Ipsum является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах.",
+        "price": 68900,
+        "sale": false,
+        "category": "refrigerators"
+    },
+    {
+        "id": 18,
+        "title": "MSI GF75 Thin 10UC-057RU",
+        "picture": "https://img.mvideo.ru/Big/30057653bb.jpg",
+        "description": "Lorem Ipsum является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах.",
+        "price": 78950,
+        "sale": false,
+        "category": "notebooks"
+    },
+    {
+        "id": 19,
+        "title": "Haier C2F636CWFD",
+        "picture": "https://img.mvideo.ru/Big/20068499bb.jpg",
+        "description": "Lorem Ipsum является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах.",
+        "price": 29000,
+        "sale": true,
+        "category": "refrigerators"
+    },
+    {
+        "id": 20,
+        "title": "Apple iPhone 12 Pro 128GB Pacific Blue (MGMN3RU/A)",
+        "picture": "https://img.mvideo.ru/Big/30052903bb.jpg",
+        "description": "Lorem Ipsum является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах.",
+        "price": 7800,
+        "sale": true,
+        "category": "smartphones"
+    },
+    {
+        "id": 21,
+        "title": "Samsung QE55QN87AAU",
+        "picture": "https://img.mvideo.ru/Big/10026255bb.jpg",
+        "description": "Lorem Ipsum является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах.",
+        "price": 13000,
+        "sale": false,
+        "category": "tv"
+    },
+    {
+        "id": 22,
+        "title": "Acer Nitro 5 AN515-57-58Q3 NH.QCCER.001",
+        "picture": "https://img.mvideo.ru/Big/30057277bb.jpg",
+        "description": "Lorem Ipsum является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах.",
+        "price": 26980,
+        "sale": false,
+        "category": "notebooks"
+    },
+    {
+        "id": 23,
+        "title": "LG DoorCooling+ GA-B509SAUM",
+        "picture": "https://img.mvideo.ru/Big/small_pic/480/20067370bb.jpg",
+        "description": "Lorem Ipsum является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах.",
+        "price": 36900,
+        "sale": false,
+        "category": "refrigerators"
+    },
+    {
+        "id": 24,
+        "title": "LG 50UP77006LB",
+        "picture": "https://img.mvideo.ru/Big/small_pic/480/10026266bb.jpg",
+        "description": "Lorem Ipsum является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах.",
+        "price": 33700,
+        "sale": false,
+        "category": "tv"
+    },
+    {
+        "id": 25,
+        "title": "Apple iPhone 12 Pro Max 128GB Pacific Blue (MGDA3RU/A)",
+        "picture": "https://img.mvideo.ru/Big/30058400bb.jpg",
+        "description": "Lorem Ipsum является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах.",
+        "price": 21000,
+        "sale": false,
+        "category": "smartphones"
+    },
+    {
+        "id": 26,
+        "title": "MSI GF75 Thin 10SC-059RU",
+        "picture": "https://img.mvideo.ru/Big/30057278bb.jpg",
+        "description": "Lorem Ipsum является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах.",
+        "price": 35690,
+        "sale": false,
+        "category": "notebooks"
+    },
+    {
+        "id": 27,
+        "title": "Haier C2F637CWMV",
+        "picture": "https://img.mvideo.ru/Big/20071633bb.jpg",
+        "description": "Lorem Ipsum является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах.",
+        "price": 34670,
+        "sale": false,
+        "category": "refrigerators"
+    },
+    {
+        "id": 28,
+        "title": "LG 55UP75006LF",
+        "picture": "https://img.mvideo.ru/Big/small_pic/480/10026296bb.jpg",
+        "description": "Lorem Ipsum является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах.",
+        "price": 21535,
+        "sale": false,
+        "category": "tv"
+    },
+    {
+        "id": 29,
+        "title": "Samsung Galaxy A12 64GB Black (SM-A125F)",
+        "picture": "https://img.mvideo.ru/Big/30059028bb.jpg",
+        "description": "Lorem Ipsum является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах.",
+        "price": 17890,
+        "sale": false,
+        "category": "smartphones"
+    },
+    {
+        "id": 30,
+        "title": "Samsung QE55Q67AAU",
+        "picture": "https://img.mvideo.ru/Big/small_pic/480/10027352bb.jpg",
+        "description": "Lorem Ipsum является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах.",
+        "price": 32100,
+        "sale": false,
+        "category": "tv"
+    },
+    {
+        "id": 31,
+        "title": "Apple iPhone XR 64GB Black",
+        "picture": "https://img.mvideo.ru/Big/30059030bb.jpg",
+        "description": "Lorem Ipsum является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах.",
+        "price": 56210,
+        "sale": true,
+        "category": "smartphones"
+    },
+    {
+        "id": 32,
+        "title": "LG 55NANO816PA",
+        "picture": "https://img.mvideo.ru/Big/10026615bb.jpg",
+        "description": "Lorem Ipsum является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах.",
+        "price": 43250,
+        "sale": false,
+        "category": "tv"
+    },
+    {
+        "id": 33,
+        "title": "Lenovo IdeaPad L340-17IRH Gaming (81LL00FCRU)",
+        "picture": "https://img.mvideo.ru/Big/30058088bb.jpg",
+        "description": "Lorem Ipsum является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах.",
+        "price": 56780,
+        "sale": true,
+        "category": "notebooks"
+    },
+    {
+        "id": 34,
+        "title": "Apple iPhone 12 Pro Max 256GB",
+        "picture": "https://img.mvideo.ru/Big/30059686bb.jpg",
+        "description": "Lorem Ipsum является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах.",
+        "price": 87900,
+        "sale": true,
+        "category": "smartphones"
+    },
+    {
+        "id": 35,
+        "title": "Indesit ITS 5180 W",
+        "picture": "https://img.mvideo.ru/Big/20072874bb.jpg",
+        "description": "Lorem Ipsum является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах.",
+        "price": 42780,
+        "sale": false,
+        "category": "refrigerators"
+    },
+    {
+        "id": 36,
+        "title": "HP Victus 16-e0044ur 497L8EA",
+        "picture": "https://img.mvideo.ru/Big/30057880bb.jpg",
+        "description": "Lorem Ipsum является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах.",
+        "price": 38650,
+        "sale": true,
+        "category": "notebooks"
+    },
+    {
+        "id": 37,
+        "title":"Samsung Galaxy A12 32GB Black",
+        "picture": "https://img.mvideo.ru/Big/30059679bb.jpg",
+        "description": "Lorem Ipsum является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах.",
+        "price": 56000,
+        "sale": false,
+        "category": "smartphones"
+    },
+    {
+        "id": 38,
+        "title": "ASUS ROG G713QM-HX180T",
+        "picture": "https://img.mvideo.ru/Big/30058088bb.jpg",
+        "description": "Lorem Ipsum является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах.",
+        "price": 27900,
+        "sale": true,
+        "category": "notebooks"
+    },
+    {
+        "id": 39,
+        "title": "LG 65UP75006LF",
+        "picture": "https://img.mvideo.ru/Big/10026285bb.jpg",
+        "description": "Lorem Ipsum является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах.",
+        "price": 34000,
+        "sale": true,
+        "category": "tv"
+    },
+    {
+        "id": 40,
+        "title": "Hotpoint-Ariston HTS 4200 S",
+        "picture": "https://img.mvideo.ru/Pdb/20036155b.jpg",
+        "description": "Lorem Ipsum является текст-заполнитель обычно используется в графических, печать и издательской индустрии для предварительного просмотра макета и визуальных макетах.",
+        "price": 42000,
+        "sale": false,
+        "category": "refrigerators"
+    }
+]

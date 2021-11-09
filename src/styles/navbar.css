@@ -1,0 +1,48 @@
+.navbar ul{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2%;
+    margin: 0;
+}
+.navbar{
+    width: 100%;
+    background-color: blue;
+}
+.navbar ul li{
+    list-style-type: none;
+}
+.navbar ul li a{
+    text-decoration: none;
+    color: white;
+}
+.navbar ul li::after{
+    display: block;
+    width: 0;
+    content: "";
+    border-bottom: 1px solid white;
+    transition: 0.3s;
+}
+.navbar ul li:hover::after{
+    width: 100%;
+}
+.basket-li{
+    position: relative;
+}
+.basket-li a {
+    z-index: 2;
+    position: relative;
+}
+.count-in-basket{
+    position: absolute;
+    width: 3vw;
+    height: 3vw;
+    background-color: green;
+    color: white;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    top: -100%;
+    right: -30%;
+}
